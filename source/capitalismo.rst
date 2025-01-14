@@ -1,17 +1,24 @@
-.. Formación documentation master file, created by
-   sphinx-quickstart on Mon Dec 16 09:36:42 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+6. CAPITALISMO  
 
-Formación documentation
-=======================
+QUE CONTIENE DOS MOMENTOS: 6.1. CAPITALISMO DESDE FINES DEL SIGLO XVIII HASTA  FINES DEL SIGLO XIX. Y EL PERÍODO O FASE DENOMINADA 6.2. IMPERIALISMO DESDE FINES DEL SIGLO XIX HASTA LA ACUTALIDAD DOMINIO DE LOS MONOPOLIOS, REPARTO DEL MUNDO POR PARTE DE LOS MISMOS, PARASITISMO COMO LO CENTRAL EN LA ACUMULACIÓN DE CAPITAL Y GUERRA MUNDIAL (INTERIMPERIALISTA). TRANSICIÓN HACIA OTRA FORMACIÓN SOCIAL. CABE VER EN ESTE PERÍODO IMPERIALISTA LAS REVOLUCIONES RUSA, CHINA, CUBANA, LOS PROCESOS DE LIBERACIÓN NACIONAL Y SOCIAL.
+14ª SEMANA:
+HOBSBAWN: LA ERA DE LA REVOLUCIÓN: Cap. 2 “La revolución industrial (24pp); Cap. 3 “La Revolución Francesa” (23pp); Cap. 11 “El trabajador pobre” (14pp).
+Total: 61 pp
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+15ª SEMANA:
+Idealismo y dialéctica: Kant y Hegel
 
+- CARPIO. PRINCIPIOS DE FILOSOFÍA. Cap.10: “El idealismo trascendental. Kant”, puntos: 1,2,3,4,5,6,7 y 8. Págs.227-244 (17 pp)
+Cap. 11: “El idealismo absoluto. Hegel”, puntos: 1,2,3,4 y 5. Págs. 316-325 (10 pp)
+Total: 27 pp
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+16ª SEMANA:
+Imperialismo: 
+- LUKACS. LA CRISIS DE LA FILOSOFÍA BURGUESA. (77 pp)
+
+17ª SEMANA: CIERRE
+- MARX. TESIS SOBRE FEUERBACH. (2pp)
+- ENGELS. ESBOZO TEÓRICO. (20pp)
+Total: 22 pp
+
 
