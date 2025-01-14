@@ -1,17 +1,45 @@
-.. Formación documentation master file, created by
-   sphinx-quickstart on Mon Dec 16 09:36:42 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+3. ESCLAVISMO. SURGIMIENTO DE LA PROPIEDAD PRIVADA
 
-Formación documentation
-=======================
+ESCLAVISMO: 
+SURGIMIENTO DE LA PROPIEDAD PRIVADA. 800 AC A 500 DC. EN EL ESPACIO GRECIA Y ROMA COMO CENTROS AUNQUE CONSIDERANDO LA EXPANSIÓN HACIA EUROPA Y ASIA DEL IMPERIO ROMANO. 
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+LA SOCIEDAD GRECO ROMANA: EL SURGIMIENTO DE LA PROPIEDAD PRIVADA. SURGIMIENTO DE LA CIUDAD Y LA CONFLICTIVA RELACIÓN CON EL CAMPO. LA POLIS GRIEGA: ATENAS Y ESPARTA. LA PRODUCCIÓN DE EXCEDENTE BAJO LA FORMA DE EXPLOTACIÓN DE TRABAJO ESCLAVO. INTENTOS DE UNIFICACIÓN: LA CONFEDERACIÓN DE POLIS Y LA GUERRA COMO NECESIDAD ANTE EL DEBIL DESARROLLO DE LAS FUERZAS PRODUCTIVAS. LA LUCHA POR EL CONTROL DE LOS MARES.
+ALEJANDRO MAGNO Y LA UNIFICACIÓN POR PARTE DE LOS MACEDONIOS. 
+ROMA: DE LA CIUDAD AGRARIA AL IMPERIO ESCLAVISTA. LA DINÁMICA INTERNA EXPANSIVA: EL MODO DE PRODUCCIÓN ESCLAVISTA REQUIERE MAYOR NÚMERO DE TIERRAS Y HOMBRES PARA SER EXPLOTADOS. LA LÓGICA ESCLAVISTA IMPIDE LA APLICACIÓN DE INNOVACIONES TÉCNICAS CONOCIDAS EN LA ÉPOCA. LA CIUDADANIZACIÓN ROMANA A LOS PUEBLOS CONQUISTADOS. LA PRESION POR LA NECESIDAD DE TIERRAS Y ESCLAVOS. 
+CRISIS DEL IMPERIO: CONTRADICCIONES Y LUCHAS INTESTINAS. DIVISIÓN ENTRE IMPERIO ROMANO DE OCCIDENTE Y DE ORIENTE. INVASIONES BÁRBARAS Y CAÍDA DEL IMPERIO DE OCCIDENTE.  
 
+GRECIA. 
+7ª SEMANA: 
+- BERNAL, JOHN: LA CIENCIA EN LA HISTORIA. Segunda Parte: “La ciencia en el mundo antiguo”;  “IV. La Edad de Hierro: la Cultura Clásica: “4.4. Los Griegos”; “4.5. La ciencia griega primitiva. Págs. 176-205 (30 pp).
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Presocráticos y Sócrates:
+- CARPIO. PRINCIPIOS DE FILOSOFÍA. Cap.2: “Cambio y permanencia”: puntos 1, 2, 3, 4 y 5. Págs. 19 – 29 (10 pp)
+Cap. 4: “El descubrimiento del concepto. Sócrates”. Págs. 57 – 76 (20 pp).
+Total: 60 pp
+ 
+8ª SEMANA:
+Platón y Aristóteles:
+- CARPIO. PRINCIPIOS DE FILOSOFÍA. Cap. 5: “El mundo de las ideas. Platón”, puntos 1, 2, 3, 4, 5, 6, 7, 8. Págs. 79- 93; y puntos 10, 11 y 12. Págs. 96-100 (20 pp).   
+Cap.6: “El mundo de las substancias. Aristóteles.”, puntos 1, 2, 3, 4, 5 y 6. Págs. 113-125 (13 pp). 
+Helenismo: Imperio Macedónico (Alejandro Magno)
+- BERNAL, JOHN. LA CIENCIA EN LA HISTORIA. Segunda Parte. IV: punto “4.7. El Imperio Alejandrino”. Págs.224-240 (17 pp).  
+
+Total: 50 pp
+
+ROMA.
+9ª SEMANA: 
+- BERNAL, JOHN: LA CIENCIA EN LA HISTORIA. Segunda Parte. IV: puntos “4.8. Roma y la decadencia de la ciencia clásica”; “4.9. El legado del mundo clásico”. Págs. 241-253 (13 pp)
+
+Estoicismo y Epicureísmo:
+- HIRSCHBERGER, JOHANNES. HISTORIA DE LA FILOSOFÍA: Tomo I. Primera parte: “Filosofía de la Antigüedad”. Cap.3: “Filosofía del helenismo y del imperio romano”; Sub-punto “La estoa”. Págs. 216-228; y sub-punto “Epicureísmo”. Págs. 238-248 (23pp).
+
+Patrística: (es Feudalismo, pero se lee en la semana 9ª) 
+- HIRSCHBERGER, JOHANNES. HISTORIA DE LA FILOSOFÍA. Tomo I. Segunda parte: “Filosofía de la Edad Media”. Cap.1: “Filosofía patrística”. Págs. 277-300 (24 pp).
+
+Total: 60 pp
+
+PELÍCULAS RECOMENDADAS: 
+- ÁGORA (2009). Dir: A. Amenabar
+- ESPARTACO (1960). Dir: S. Kubrick
+
 
