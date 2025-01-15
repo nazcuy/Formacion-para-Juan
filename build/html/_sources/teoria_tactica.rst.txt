@@ -13,15 +13,5 @@ documentation for details.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenido
+   :caption: Contents:
 
-   bloque_intro
-   capitalismo
-   comunidad_primitiva
-   el_capital
-   esclavismo
-   feudalismo
-   moa
-   teoria_tactica
-   teorico
-   transicion

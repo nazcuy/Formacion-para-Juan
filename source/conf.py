@@ -14,7 +14,9 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx-pdj-theme']
+extensions = [
+'sphinx_pdj_theme',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
